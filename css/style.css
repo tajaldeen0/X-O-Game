@@ -1,0 +1,21 @@
+.wrapper {
+    width: 400px;
+    height: 400px;
+    margin: 100px auto;
+    background-color: aqua;
+    border-radius: 40px;
+}
+
+.square {
+    width: 120px;
+    height: 120px;
+    background: black;
+    margin: 5px;
+    font-size: 108px;
+    font-family: sans-serif;
+    text-align: center;
+    color: red;
+    cursor: pointer;
+    float: left;
+    border-radius: 60px;
+}
